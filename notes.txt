@@ -1,3 +1,4 @@
+//== Setup of Tools
 Files needs to install:
 1. Visual Studio Code
 2. xampp
@@ -10,10 +11,9 @@ cd ..
 cd xampp\mysql\bin
 mysql -u root -p 
 
-
 All projects created in php must be saved inside xampp/htdocs
 
-at Visual Studio
+@ Visual Studio Code
 
 Alt + l + o  = open the live server
 
@@ -21,5 +21,8 @@ setup the Live Server in Chrome:
 Actual Server Address: http://localhost/Php_Tutorial_for_Git/  (slash /  lang ang dulo)
 Live Server Address: http://127.0.0.1:5500/  (came from alt + l + 0)
 
+
+
+//== Basic Fundamentals
 
 
